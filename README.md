@@ -23,7 +23,7 @@ Yayın Tarihi / Published: Aralık / December, 2022
 
 Yayın Linkleri - Erişim Adresleri:
 
-https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi
+[Kitap İnternet Sayfası](https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi)
 
 https://alicetinkaya.site/kitap-yapay-zekayz-1
 
