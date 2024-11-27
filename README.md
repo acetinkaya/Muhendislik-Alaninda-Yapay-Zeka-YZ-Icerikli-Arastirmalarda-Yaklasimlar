@@ -34,10 +34,9 @@ Yayın Linkleri - Erişim Adresleri:
 
 ---
 
+![AlternatifMetin](https://github.com/acetinkaya/Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar/blob/main/Seruven-yayincilik-bolum.png)
 
-
-
-
+---
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
@@ -47,8 +46,6 @@ APA: Çetinkaya, A., (2022). Mühendislik Alanında Yapay Zeka (YZ) İçerikli A
 
 MLA: Çetinkaya, ALİ. "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar." Mühendislik Alanında Uluslararası Araştırmalar - I , Serüven Yayınevi, 2022, pp.157-171.
 
+License:
 
-
-
-![AlternatifMetin](https://github.com/acetinkaya/Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar/blob/main/Seruven-yayincilik-bolum.png)
-
+This work is licensed under a Creative Commons Attribution 4.0 International License.
