@@ -11,7 +11,7 @@ Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 
 ---
 
-** Book Title / Kitap İsmi: Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
+** Book Title / Kitap İsmi: Mühendislik Alanında Uluslararası Araştırmalar - I 
 
 
 
