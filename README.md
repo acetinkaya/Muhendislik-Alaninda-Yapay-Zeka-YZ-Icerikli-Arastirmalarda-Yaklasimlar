@@ -13,7 +13,7 @@ Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 
 ** Book Title / Kitap İsmi: Mühendislik Alanında Uluslararası Araştırmalar - I, ÖZALP Coşkun, HÜRDOĞAN Ertaç, Editör, Serüven Yayınevi, İzmir, ss.157-171, 2022
 
-Book Chapter Information / Kitap Bölümü Bilgileri: Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar, Chapter from the book: Coşkun, Ö. & Ertaç, H. (Eds.),  2023. Mühendislik Alanında Uluslararası Araştırmalar - I, Serüven Yayınevi
+Book Chapter Information / Kitap Bölümü Bilgileri: Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar, Bölüm 10, Ö. & Ertaç, H. (Eds.),  2023. Mühendislik Alanında Uluslararası Araştırmalar - I, Serüven Yayınevi
 
 Chapter DOI: https://doi.org/10.58830/ozgur.pub95.c444
 
