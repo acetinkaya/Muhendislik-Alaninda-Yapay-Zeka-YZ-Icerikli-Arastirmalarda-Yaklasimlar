@@ -15,3 +15,8 @@ IEEE: A. Çetinkaya, "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştı
 APA: Çetinkaya, A., (2022). Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar. Mühendislik Alanında Uluslararası Araştırmalar - I (pp.157-171), İzmir: Serüven Yayınevi.
 
 MLA: Çetinkaya, ALİ. "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar." Mühendislik Alanında Uluslararası Araştırmalar - I , Serüven Yayınevi, 2022, pp.157-171.
+
+
+![AlternatifMetin](https://github.com/acetinkaya/Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar/blob/main/Seruven-yayincilik-kitap-kapagi.png)
+
+
