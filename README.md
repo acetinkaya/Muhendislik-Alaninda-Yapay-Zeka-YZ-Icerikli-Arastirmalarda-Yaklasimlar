@@ -2,8 +2,6 @@
 
 Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 
-
-
 ## Author
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
@@ -12,6 +10,10 @@ Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ---
+
+** Book Title / Kitap İsmi: Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
+
+
 
 
 https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi
