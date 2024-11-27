@@ -25,11 +25,11 @@ Yayın Tarihi / Published: Aralık / December, 2022
 
 Yayın Linkleri - Erişim Adresleri:
 
-[Kitap İnternet Sayfası](https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi)
+[Kitap İnternet Sayfası](https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi)  
 
-[Kitap 10. Bölüm]([https://alicetinkaya.site/kitap-yapay-zekayz-1](https://www.seruvenyayinevi.com/Webkontrol/uploads/Fck/mhendislik1aralik2022_1.pdf))
+[Kitap 10. Bölüm](https://www.seruvenyayinevi.com/Webkontrol/uploads/Fck/mhendislik1aralik2022_1.pdf)  
 
-[ResearchGate](https://www.researchgate.net/publication/368510203_MUHENDISLIK_ALANINDA_YAPAY_ZEKA_YZ_ICERIKLI_ARASTIRMALARDA_YAKLASIMLAR)
+[ResearchGate](https://www.researchgate.net/publication/368510203_MUHENDISLIK_ALANINDA_YAPAY_ZEKA_YZ_ICERIKLI_ARASTIRMALARDA_YAKLASIMLAR)  
 
 
 ---
