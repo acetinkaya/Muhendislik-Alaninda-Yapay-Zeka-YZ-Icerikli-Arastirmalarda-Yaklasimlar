@@ -20,3 +20,5 @@ MLA: Çetinkaya, ALİ. "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araşt
 ![AlternatifMetin](https://github.com/acetinkaya/Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar/blob/main/Seruven-yayincilik-kitap-kapagi.png)
 
 
+https://github.com/acetinkaya/Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar/blob/main/Seruven-yayincilik-bolum.png
+
