@@ -15,8 +15,9 @@ Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 
 Book Chapter Information / Kitap Bölümü Bilgileri: Muhendislik-Alaninda-Yapay-Zeka-YZ-Icerikli-Arastirmalarda-Yaklasimlar, Bölüm 10, Ö. & Ertaç, H. (Eds.),  2023. Mühendislik Alanında Uluslararası Araştırmalar - I, Serüven Yayınevi
 
-Chapter DOI: https://doi.org/10.58830/ozgur.pub95.c444
+ISBN Mo: 978-625-6399-08-2
 
+Yayın Tarihi / Published: Aralık / December, 2022
 
 https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi
 
