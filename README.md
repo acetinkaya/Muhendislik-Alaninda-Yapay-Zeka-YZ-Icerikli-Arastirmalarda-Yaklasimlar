@@ -27,7 +27,7 @@ Yayın Linkleri - Erişim Adresleri:
 
 [Kitap 10. Bölüm]([https://alicetinkaya.site/kitap-yapay-zekayz-1](https://www.seruvenyayinevi.com/Webkontrol/uploads/Fck/mhendislik1aralik2022_1.pdf))
 
-https://www.researchgate.net/publication/368510203_MUHENDISLIK_ALANINDA_YAPAY_ZEKA_YZ_ICERIKLI_ARASTIRMALARDA_YAKLASIMLAR
+[ResearchGate](https://www.researchgate.net/publication/368510203_MUHENDISLIK_ALANINDA_YAPAY_ZEKA_YZ_ICERIKLI_ARASTIRMALARDA_YAKLASIMLAR)
 
 
 
