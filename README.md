@@ -2,6 +2,18 @@
 
 Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar
 
+
+
+## Author
+
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+  
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
+
+---
+
+
 https://www.seruvenyayinevi.com/icerik/haber-blog/aralik-2022-uluslararasi-kitaplari-yayinlandi
 
 https://alicetinkaya.site/kitap-yapay-zekayz-1
